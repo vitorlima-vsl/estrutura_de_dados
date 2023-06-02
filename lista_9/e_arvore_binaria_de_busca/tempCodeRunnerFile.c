@@ -1,0 +1,1 @@
+    if(!vazia(arvore)){
